@@ -1,3 +1,3 @@
 # Suqor
-Our Technovation project 2022
-Aishi, Brinda, Neha, Ovi, Riya
+Technovation Challenge 2022
+Aishi Sharma, Brinda Mougdalya, Neha Kadasani, Ovi Bhagwat, Riya Rastogi 
