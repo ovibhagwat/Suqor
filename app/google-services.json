@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "577006457946",
+    "project_id": "suqor-goodhumans",
+    "storage_bucket": "suqor-goodhumans.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:577006457946:android:590fd7188da6cee5a97463",
+        "android_client_info": {
+          "package_name": "com.goodhumans.suqor"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "577006457946-53sb942u8d73jjrivkssn7rgk3qs8fq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBpaC_OdpO-ASx2ct4eUaapYkn3w1S3j6w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "577006457946-53sb942u8d73jjrivkssn7rgk3qs8fq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

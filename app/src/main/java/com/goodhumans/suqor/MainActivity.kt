@@ -1,4 +1,4 @@
-package com.example.suqor
+package com.goodhumans.suqor
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle

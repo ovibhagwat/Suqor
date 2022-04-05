@@ -1,4 +1,4 @@
-package com.example.suqor
+package com.goodhumans.suqor
 
 import org.junit.Test
 
